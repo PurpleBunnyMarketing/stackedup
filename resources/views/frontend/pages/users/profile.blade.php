@@ -53,7 +53,7 @@
                                                 $user->full_name ?? "" }}</p>
                                         </div>
                                         <div class="col-sm-6 col-lg-6">
-                                            <label>Phone Number:</label>
+                                            <label>Registered Phone Number</label>
                                             <p class="font-size-h5 font-weight-bolder">{{
                                                 $user->phone_code.''.$user->mobile_no }}</p>
                                         </div>
